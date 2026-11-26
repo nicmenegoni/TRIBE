@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use TRIBE, please cite the article below."
+title: "TRIBE: TRIplet-based Block size Estimation"
+version: 1.0.0
+doi: 10.5281/zenodo.24558801
+date-released: 2026-11-26
+license: MIT
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24558801
+    description: "Zenodo DOI of TRIBE v1.0.0"
+authors:
+  - family-names: Foletti
+    given-names: Matteo Giovanni
+    affiliation: "Department of Earth and Environmental Sciences, University of Pavia"
+  - family-names: Menegoni
+    given-names: Niccolò
+    affiliation: "Department of Earth and Environmental Sciences, University of Pavia"
+preferred-citation:
+  type: article
+  title: "Estimating rock block volume using drone and open-source fractured rock mass characterization tools"
+  journal: "Engineering Geology"
+  year: 2026
+  status: submitted
+  authors:
+    - family-names: Foletti
+      given-names: Matteo Giovanni
+    - family-names: Menegoni
+      given-names: Niccolò
+    - family-names: Testa
+      given-names: Giuliana
+    - family-names: Poggi
+      given-names: Eugenio
+    - family-names: Benedetti
+      given-names: Gianluca
+    - family-names: Comedini
+      given-names: Massimo
+    - family-names: Zucca
+      given-names: Francesco
+    - family-names: Perotti
+      given-names: Cesare
+    - family-names: Elmo
+      given-names: Davide
+    - family-names: Giordan
+      given-names: Daniele
+    - family-names: Bellini
+      given-names: Valeria
+    - family-names: Seno
+      given-names: Silvio
+    - family-names: Maino
+      given-names: Matteo
